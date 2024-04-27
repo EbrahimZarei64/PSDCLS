@@ -18,6 +18,6 @@ performance of PSDCLS cryptosystem, we conducted extensive simulations and exper
 various benchmark images. ‎‎Experimental results and analyses show that PSDCLS achieves  
 excellent scores for information entropy ‎(‎‎‎>7.99‎‎‎)‎‎, correlation coefficients close to 0, key 
 space ‎(‎‎2^‎{‎512}‎‎‎)‎‎, NPCR ‎(‎‎>99.60%‎‎‎)‎‎, UACI ‎(‎‎‎‎>33.46‎‎%‎‎‎). ‎T‎he encryption time for test images 
-of ‎size‎ ‎‎512‎*‎512‎ ‎‎and‎ ‎512‎*512‎*3‎  ‎was ‎around‎‎‎ 0.026  ‎and ‎0.0‎8‎1‎ ‎seconds, 
+of ‎size‎ ‎‎512‎*512‎ ‎‎and‎ ‎512‎*512‎*3‎  ‎was ‎around‎‎‎ 0.026  ‎and ‎0.0‎8‎1‎ ‎seconds, 
 respectively‎. ‎Therefore‎, PSDCLS is highly robust  against common cryptographic attacks and ‎it
  ‎is ‎a swift cryptosystem for real-time ‎applications‎.
