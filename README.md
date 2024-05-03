@@ -6,4 +6,4 @@ Abstract: Today, due to the unparalleled growth of multimedia data sharing, espe
 
 
 
-Ebrahim Zarei Zefreh, PSDCLS: parallel simultaneous diffusion-confusion image cryptosystem based on Latin square ,Journal of Information Security and Applications, May 02, 2024, Accepted
+Ebrahim Zarei Zefreh, PSDCLS: parallel simultaneous diffusion-confusion image cryptosystem based on Latin square, Journal of Information Security and Applications, May 02, 2024, Accepted.
